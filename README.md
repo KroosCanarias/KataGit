@@ -1,1 +1,1 @@
-# KataGit
+This is a README file
